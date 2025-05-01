@@ -2,7 +2,9 @@
 
 A lightweight, browser-based text sentiment analysis tool that evaluates the emotional tone of written content. This project uses a lexicon-based approach with context awareness to determine whether text expresses positive, negative, or neutral sentiment.
 
-![Sentiment Analysis Tool Screenshot](https://via.placeholder.com/800x400?text=Sentiment+Analysis+Tool)
+![Sentiment Analysis Tool Screenshot]
+
+
 
 ## Features
 
